@@ -1,0 +1,20 @@
+{
+  "name": "terminal-activator",
+  "version": "1.0.0",
+  "description": "Activate terminal from command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "terminal",
+    "activate",
+    "osascript",
+    "applescript"
+  ],
+  "author": "Jay Deaton",
+  "license": "ISC",
+  "bin": {
+    "activate": "./index.js"
+  }
+}
